@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -23,12 +22,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/i-used-react-and-css-flexbox-for-this-project-PnpMVRXzV](https://your-solution-url.com)
+- Live Site URL: [https://sad-bassi-7b36d1.netlify.app/](https://your-live-site-url.com)
 
 ## My process
 
