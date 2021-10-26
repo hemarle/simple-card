@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import image from './images/mobile.jpg'
 
 function App() {
   return (
